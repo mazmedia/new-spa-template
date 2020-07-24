@@ -1,0 +1,13 @@
+{
+  "name": "web-template",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "boot": "live-server publix",
+    "confirm": "echo \" -> Your all ready to go! Run `yarn run boot` to boot up the server!\" && exit 1"
+  }
+}
