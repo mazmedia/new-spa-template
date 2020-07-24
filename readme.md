@@ -5,7 +5,7 @@
 1. Clone this repo using git
 2. Re-create ```node_modules``` by running:
 ```shell
-yarn init
+yarn install
 ```
 3. run ```yarn run confirm``` to confirm!
 
